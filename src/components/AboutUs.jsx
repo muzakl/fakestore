@@ -1,5 +1,5 @@
 import React from "react";
-import classes from "../modules/AboutUs.module.scss";
+import classes from "../modules/Aboutus.module.scss";
 
 const AboutUs = () => {
     return (
