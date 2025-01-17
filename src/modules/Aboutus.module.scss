@@ -1,0 +1,22 @@
+.aboutUs {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  text-align: center;
+  padding: 20px;
+}
+
+.aboutUs h1 {
+  font-size: 3rem;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.aboutUs p {
+  font-size: 1.25rem;
+  color: #555;
+  max-width: 600px;
+  margin-bottom: 10px;
+}
